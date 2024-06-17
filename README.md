@@ -12,3 +12,6 @@ Survival Game is a fight game, built for coders who want a straightforward and e
 - `CSS`
 - `Javascript`
 - `HTML`
+
+  ## 🎮 You can try it here
+  <a href = "https://gitdigit.github.io/survival-game/game.html">Quiz App</a>
