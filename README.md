@@ -14,4 +14,4 @@ Survival Game is a fight game, built for coders who want a straightforward and e
 - `HTML`
 
   ## 🎮 You can try it here
-  <a href = "https://gitdigit.github.io/survival-game/game.html">Quiz App</a>
+  <a href = "https://gitdigit.github.io/survival-game/game.html">Survival Game</a>
