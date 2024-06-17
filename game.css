@@ -1,0 +1,47 @@
+.scorer {
+    font-family: 'Cristik', normal;
+    color: #FF79CE;
+    position: absolute;
+    top: 343px;
+    left: 1030px;
+    z-index: 20;
+}
+
+.lifeplayer {
+    font-family: 'Cristik', normal;
+    color: #FF79CE;
+    position: absolute;
+    top: 343px;
+    left: 1130px;
+    
+    z-index: 20;
+}
+
+.lifeenemy {
+    font-family: 'Cristik', normal;
+    color: #FF79CE;
+    position: absolute;
+    top: 343px;
+    left: 1250px;
+    
+    z-index: 20;
+}
+.timer{
+
+    width: 48px;
+    height: 125px;
+    flex-shrink: 0;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    color: #ffdd00;
+    font-size: 50px;
+    top: 20px; /*343 */
+    left: 628.5px;
+}
+
+@font-face {
+    font-family: 'Cristik'; /* Replace with your actual font name */
+    src: url('fonts/Cristik.ttf') format('truetype'); /* Adjust path and format */
+  }

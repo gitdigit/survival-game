@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    align-items: center;
+}
+
+#background{
+    width: fit-content; 
+    margin: 0 auto; 
+}
+
+#btnstart {
+    height : 20px;
+    bottom: 300px;
+    left : 900px;
+    width : 150px;
+    height: 40px;
+    background-color: #40F4D2;
+    color:#330084;
+    border-radius: 10px;
+    position: relative;
+    text-align: center;
+    /*font-family: 'Press Start 2P', cursive;*/
+    font-family: 'Cristik', normal;
+      }
+/* Adjust this value as desired */
+
+#btnstart:active{
+    background-color: #330084;
+    color: white;
+}
+
+@font-face {
+    font-family: 'Cristik'; /* Replace with your actual font name */
+    src: url('fonts/Cristik.ttf') format('truetype'); /* Adjust path and format */
+  }
