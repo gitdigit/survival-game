@@ -1,6 +1,6 @@
 # 🎮 Survival Game
 
-Survival Game is a fight game, built for coders who want a straightforward and efficient way to write and test HTML, CSS, and JavaScript. Using Javascript, I made sure Survival Game is easy to use and gets the job done.
+Survival Game is a fight game, built for everyone including coders who want a straightforward and efficient way to write and test HTML, CSS, and JavaScript. Using Javascript, I made sure Survival Game is easy to use and gets the job done.
 
 ## 🚀 Key Features
 
